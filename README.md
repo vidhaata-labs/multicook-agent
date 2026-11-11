@@ -1,4 +1,4 @@
-# multicook-agent
+# MultiCook Agent
 
 ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)
 ![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)
@@ -6,7 +6,7 @@
 ![Code style: ruff](https://img.shields.io/badge/code_style-ruff-ff69b4.svg)
 ![Package manager: uv](https://img.shields.io/badge/package_manager-uv-3478f6.svg)
 
-MultiCook Agent | A LangChain-driven multimodal agent leveraging vision-language models to analyze ingredient photos and dynamically synthesize tailored culinary instructions.
+A LangChain-driven multimodal agent leveraging vision-language models to analyze ingredient photos and dynamically synthesize tailored culinary instructions.
 
 ## Project Structure
 
