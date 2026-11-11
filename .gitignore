@@ -49,8 +49,10 @@ coverage.xml
 *.py.cover
 *.lcov
 .hypothesis/
-.pytest_cache/
 cover/
+
+# Application logs
+logs/
 
 # Translations
 *.mo
